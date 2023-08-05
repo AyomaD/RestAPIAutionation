@@ -1,5 +1,4 @@
-﻿using RestAPIAutomation.Endpoints;
-using RestSharp;
+﻿using RestSharp;
 
 namespace RestAPIAutomation.Common
 {
